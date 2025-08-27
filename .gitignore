@@ -17,3 +17,4 @@ obj/
 *.log
 *.tmp
 ChiaseNoiBo/GoogleDriveHelper.cs
+ChiaseNoiBo/GoogleDriveUploader.cs
